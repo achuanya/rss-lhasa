@@ -1,0 +1,1 @@
+[2025-12-08 00:05:12] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.247.25:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
