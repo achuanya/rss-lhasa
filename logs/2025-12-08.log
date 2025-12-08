@@ -1,1 +1,18 @@
 [2025-12-08 00:05:12] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.247.25:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+[2025-12-08 00:06:13] 本次订阅抓取结果统计:
+[2025-12-08 00:06:13] 共 31 条RSS, 成功抓取 22 条.
+[2025-12-08 00:06:13] ✘ 有 9 条订阅解析失败:
+[2025-12-08 00:06:13] - https://tumutanzi.com/feed
+[2025-12-08 00:06:13] - https://geekinney.com/index.xml
+[2025-12-08 00:06:13] - https://suus.me/atom.xml
+[2025-12-08 00:06:13] - https://www.shephe.com/feed
+[2025-12-08 00:06:13] - https://xyzbz.cn/feed
+[2025-12-08 00:06:13] - https://oba.by/feed
+[2025-12-08 00:06:13] - https://www.laomuzhu.cn/feed/
+[2025-12-08 00:06:13] - https://www.moraex.com/feed
+[2025-12-08 00:06:13] - https://bluehe.cn/rss.xml
+[2025-12-08 00:06:13] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2025-12-08 00:06:13] - https://laike9m.com/blog/rss/
+[2025-12-08 00:06:13] - https://skywind.me/blog/feed
+[2025-12-08 00:06:13] - https://www.mrhe.net/feed
+[2025-12-08 00:06:13] - https://byvoid.com/zhs/feed.xml
