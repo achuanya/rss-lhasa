@@ -58,3 +58,9 @@
 [2025-12-11 14:03:39] - https://geekinney.com/index.xml
 [2025-12-11 14:03:39] - https://suus.me/atom.xml
 [2025-12-11 14:03:39] - https://skywind.me/blog/feed
+[2025-12-11 15:01:52] 本次订阅抓取结果统计:
+[2025-12-11 15:01:52] 共 31 条RSS, 成功抓取 28 条.
+[2025-12-11 15:01:52] ✘ 有 3 条订阅解析失败:
+[2025-12-11 15:01:52] - https://tumutanzi.com/feed
+[2025-12-11 15:01:52] - https://geekinney.com/index.xml
+[2025-12-11 15:01:52] - https://suus.me/atom.xml
