@@ -96,3 +96,11 @@
 [2025-12-16 20:01:45] - https://suus.me/atom.xml
 [2025-12-16 20:01:45] - https://geekinney.com/index.xml
 [2025-12-16 20:01:45] - https://www.moraex.com/feed
+[2025-12-16 21:02:33] 本次订阅抓取结果统计:
+[2025-12-16 21:02:33] 共 31 条RSS, 成功抓取 26 条.
+[2025-12-16 21:02:33] ✘ 有 5 条订阅解析失败:
+[2025-12-16 21:02:33] - https://tumutanzi.com/feed
+[2025-12-16 21:02:33] - https://geekinney.com/index.xml
+[2025-12-16 21:02:33] - https://suus.me/atom.xml
+[2025-12-16 21:02:33] - https://www.moraex.com/feed
+[2025-12-16 21:02:33] - https://freemind.pluskid.org/rss.xml
