@@ -56,3 +56,4 @@
 [2025-12-16 17:04:55] - https://suus.me/atom.xml
 [2025-12-16 17:04:55] - https://geekinney.com/index.xml
 [2025-12-16 17:04:55] - https://www.moraex.com/feed
+[2025-12-16 18:02:22] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
