@@ -77,3 +77,11 @@
 [2025-12-22 11:01:50] - https://suus.me/atom.xml
 [2025-12-22 11:01:50] - https://www.moraex.com/feed
 [2025-12-22 12:03:11] 抓取到的文章与现有数据相同，无需更新。
+[2025-12-22 13:12:59] 本次订阅抓取结果统计:
+[2025-12-22 13:12:59] 共 31 条RSS, 成功抓取 26 条.
+[2025-12-22 13:12:59] ✘ 有 5 条订阅解析失败:
+[2025-12-22 13:12:59] - https://tumutanzi.com/feed
+[2025-12-22 13:12:59] - https://geekinney.com/index.xml
+[2025-12-22 13:12:59] - https://suus.me/atom.xml
+[2025-12-22 13:12:59] - https://www.moraex.com/feed
+[2025-12-22 13:12:59] - https://skywind.me/blog/feed
