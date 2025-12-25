@@ -61,3 +61,19 @@
 [2025-12-25 15:01:48] 抓取到的文章与现有数据相同，无需更新。
 [2025-12-25 16:01:48] 抓取到的文章与现有数据相同，无需更新。
 [2025-12-25 17:02:13] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2025-12-25 17:03:16] 本次订阅抓取结果统计:
+[2025-12-25 17:03:16] 共 32 条RSS, 成功抓取 24 条.
+[2025-12-25 17:03:16] ✘ 有 8 条订阅解析失败:
+[2025-12-25 17:03:16] - https://tumutanzi.com/feed
+[2025-12-25 17:03:16] - https://geekinney.com/index.xml
+[2025-12-25 17:03:16] - https://suus.me/atom.xml
+[2025-12-25 17:03:16] - https://oba.by/feed
+[2025-12-25 17:03:16] - https://xyzbz.cn/feed
+[2025-12-25 17:03:16] - https://www.laomuzhu.cn/feed/
+[2025-12-25 17:03:16] - https://www.moraex.com/feed
+[2025-12-25 17:03:16] - https://bluehe.cn/rss.xml
+[2025-12-25 17:03:16] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2025-12-25 17:03:16] - https://laike9m.com/blog/rss/
+[2025-12-25 17:03:16] - https://skywind.me/blog/feed
+[2025-12-25 17:03:16] - https://byvoid.com/zhs/feed.xml
+[2025-12-25 17:03:16] - https://www.mrhe.net/feed
