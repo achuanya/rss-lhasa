@@ -51,3 +51,13 @@
 [2025-12-31 09:03:50] - https://www.moraex.com/feed
 [2025-12-31 10:02:04] 抓取到的文章与现有数据相同，无需更新。
 [2025-12-31 11:01:50] 抓取到的文章与现有数据相同，无需更新。
+[2025-12-31 12:03:02] 本次订阅抓取结果统计:
+[2025-12-31 12:03:02] 共 36 条RSS, 成功抓取 29 条.
+[2025-12-31 12:03:02] ✘ 有 7 条订阅解析失败:
+[2025-12-31 12:03:02] - https://tumutanzi.com/feed
+[2025-12-31 12:03:02] - https://geekinney.com/index.xml
+[2025-12-31 12:03:02] - https://suus.me/atom.xml
+[2025-12-31 12:03:02] - https://leixus.cn/index.php/feed/
+[2025-12-31 12:03:02] - https://www.luzhaojun.com/feed
+[2025-12-31 12:03:02] - https://www.moraex.com/feed
+[2025-12-31 12:03:02] - https://freemind.pluskid.org/rss.xml
