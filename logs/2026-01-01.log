@@ -28,3 +28,10 @@
 [2026-01-01 00:35:20] - https://suus.me/atom.xml
 [2026-01-01 00:35:20] - https://www.moraex.com/feed
 [2026-01-01 00:35:20] - https://skywind.me/blog/feed
+[2026-01-01 01:30:30] 本次订阅抓取结果统计:
+[2026-01-01 01:30:30] 共 41 条RSS, 成功抓取 37 条.
+[2026-01-01 01:30:30] ✘ 有 4 条订阅解析失败:
+[2026-01-01 01:30:30] - https://tumutanzi.com/feed
+[2026-01-01 01:30:30] - https://suus.me/atom.xml
+[2026-01-01 01:30:30] - https://geekinney.com/index.xml
+[2026-01-01 01:30:30] - https://www.moraex.com/feed
