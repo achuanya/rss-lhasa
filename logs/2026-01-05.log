@@ -104,3 +104,12 @@
 [2026-01-05 22:01:50] - https://geekinney.com/index.xml
 [2026-01-05 22:01:50] - https://www.moraex.com/feed
 [2026-01-05 22:01:50] - https://note.redcha.cn/rss.xml
+[2026-01-05 23:02:27] 本次订阅抓取结果统计:
+[2026-01-05 23:02:27] 共 42 条RSS, 成功抓取 36 条.
+[2026-01-05 23:02:27] ✘ 有 6 条订阅解析失败:
+[2026-01-05 23:02:27] - https://tumutanzi.com/feed
+[2026-01-05 23:02:27] - https://geekinney.com/index.xml
+[2026-01-05 23:02:27] - https://suus.me/atom.xml
+[2026-01-05 23:02:27] - https://www.moraex.com/feed
+[2026-01-05 23:02:27] - https://note.redcha.cn/rss.xml
+[2026-01-05 23:02:27] - https://skywind.me/blog/feed
