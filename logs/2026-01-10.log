@@ -43,3 +43,4 @@
 [2026-01-10 12:02:09] - https://suus.me/atom.xml
 [2026-01-10 12:02:09] - https://www.moraex.com/feed
 [2026-01-10 13:10:16] 抓取到的文章与现有数据相同，无需更新。
+[2026-01-10 14:02:03] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
