@@ -16,3 +16,12 @@
 [2026-01-13 09:04:55] - https://geekinney.com/index.xml
 [2026-01-13 09:04:55] - https://www.moraex.com/feed
 [2026-01-13 10:01:51] 抓取到的文章与现有数据相同，无需更新。
+[2026-01-13 11:03:00] 本次订阅抓取结果统计:
+[2026-01-13 11:03:00] 共 43 条RSS, 成功抓取 37 条.
+[2026-01-13 11:03:00] ✘ 有 6 条订阅解析失败:
+[2026-01-13 11:03:00] - https://tumutanzi.com/feed
+[2026-01-13 11:03:00] - https://oba.by/feed
+[2026-01-13 11:03:00] - https://geekinney.com/index.xml
+[2026-01-13 11:03:00] - https://suus.me/atom.xml
+[2026-01-13 11:03:00] - https://www.moraex.com/feed
+[2026-01-13 11:03:00] - https://skywind.me/blog/feed
