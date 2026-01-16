@@ -14,3 +14,4 @@
 [2026-01-16 00:05:26] - https://laike9m.com/blog/rss/
 [2026-01-16 00:05:26] - https://byvoid.com/zhs/feed.xml
 [2026-01-16 00:05:26] - https://www.mrhe.net/feed
+[2026-01-16 01:29:56] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-01-16T01:29:55Z is after 2026-01-15T23:59:59Z
