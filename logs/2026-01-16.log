@@ -49,3 +49,18 @@
 [2026-01-16 03:29:35] - https://www.mrhe.net/feed
 [2026-01-16 03:29:35] - https://byvoid.com/zhs/feed.xml
 [2026-01-16 04:15:09] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-01-16T04:15:09Z is after 2026-01-15T23:59:59Z
+[2026-01-16 04:15:23] 本次订阅抓取结果统计:
+[2026-01-16 04:15:23] 共 43 条RSS, 成功抓取 38 条.
+[2026-01-16 04:15:23] ✘ 有 5 条订阅解析失败:
+[2026-01-16 04:15:23] - https://tumutanzi.com/feed
+[2026-01-16 04:15:23] - https://oba.by/feed
+[2026-01-16 04:15:23] - https://geekinney.com/index.xml
+[2026-01-16 04:15:23] - https://suus.me/atom.xml
+[2026-01-16 04:15:23] - https://www.moraex.com/feed
+[2026-01-16 04:15:23] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-01-16 04:15:23] - https://mayx.eu.org/atom.xml
+[2026-01-16 04:15:23] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2026-01-16 04:15:23] - https://laike9m.com/blog/rss/
+[2026-01-16 04:15:23] - https://skywind.me/blog/feed
+[2026-01-16 04:15:23] - https://www.mrhe.net/feed
+[2026-01-16 04:15:23] - https://byvoid.com/zhs/feed.xml
