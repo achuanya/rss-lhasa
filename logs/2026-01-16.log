@@ -32,3 +32,4 @@
 [2026-01-16 02:37:18] - https://skywind.me/blog/feed
 [2026-01-16 02:37:18] - https://www.mrhe.net/feed
 [2026-01-16 02:37:18] - https://byvoid.com/zhs/feed.xml
+[2026-01-16 03:29:22] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-01-16T03:29:22Z is after 2026-01-15T23:59:59Z
