@@ -1,0 +1,1 @@
+[2026-01-16 00:04:28] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-01-16T00:04:28Z is after 2026-01-15T23:59:59Z
