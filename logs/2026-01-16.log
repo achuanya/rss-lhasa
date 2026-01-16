@@ -100,3 +100,11 @@
 [2026-01-16 06:01:48] - https://blog.fueis.com/feed
 [2026-01-16 07:04:10] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-01-16T07:04:10Z is after 2026-01-15T23:59:59Z
 [2026-01-16 07:04:22] 抓取到的文章与现有数据相同，无需更新。
+[2026-01-16 08:01:59] 本次订阅抓取结果统计:
+[2026-01-16 08:01:59] 共 43 条RSS, 成功抓取 38 条.
+[2026-01-16 08:01:59] ✘ 有 5 条订阅解析失败:
+[2026-01-16 08:01:59] - https://tumutanzi.com/feed
+[2026-01-16 08:01:59] - https://oba.by/feed
+[2026-01-16 08:01:59] - https://suus.me/atom.xml
+[2026-01-16 08:01:59] - https://geekinney.com/index.xml
+[2026-01-16 08:01:59] - https://www.moraex.com/feed
