@@ -80,3 +80,4 @@
 [2026-01-18 19:01:30] - https://sizheng.org/feed
 [2026-01-18 19:01:30] - https://www.moraex.com/feed
 [2026-01-18 20:01:44] 抓取到的文章与现有数据相同，无需更新。
+[2026-01-18 21:01:54] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
