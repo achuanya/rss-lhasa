@@ -183,3 +183,4 @@
 [2026-01-24 17:02:28] - https://www.mrhe.net/feed
 [2026-01-24 17:02:28] - https://byvoid.com/zhs/feed.xml
 [2026-01-24 18:01:38] [WARN] 加载头像映射失败: failed to parse avatar map JSON: unexpected end of JSON input
+[2026-01-24 18:02:35] 抓取到的文章与现有数据相同，无需更新。
