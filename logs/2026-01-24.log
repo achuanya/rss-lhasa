@@ -73,3 +73,21 @@
 [2026-01-24 10:23:21] - https://byvoid.com/zhs/feed.xml
 [2026-01-24 10:23:21] - https://xyzbz.cn/feed
 [2026-01-24 11:01:23] [WARN] 加载头像映射失败: failed to parse avatar map JSON: unexpected end of JSON input
+[2026-01-24 11:02:21] 本次订阅抓取结果统计:
+[2026-01-24 11:02:21] 共 47 条RSS, 成功抓取 40 条.
+[2026-01-24 11:02:21] ✘ 有 7 条订阅解析失败:
+[2026-01-24 11:02:21] - https://tumutanzi.com/feed
+[2026-01-24 11:02:21] - https://suus.me/atom.xml
+[2026-01-24 11:02:21] - https://geekinney.com/index.xml
+[2026-01-24 11:02:21] - https://www.moraex.com/feed
+[2026-01-24 11:02:21] - https://sizheng.org/feed
+[2026-01-24 11:02:21] - https://www.luzhaojun.com/feed
+[2026-01-24 11:02:21] - https://skywind.me/blog/feed
+[2026-01-24 11:02:21] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-01-24 11:02:21] - https://mayx.eu.org/atom.xml
+[2026-01-24 11:02:21] ✘ 有 5 条订阅头像无法访问, 已使用默认头像:
+[2026-01-24 11:02:21] - https://zhongxiaojie.com/feed
+[2026-01-24 11:02:21] - https://laike9m.com/blog/rss/
+[2026-01-24 11:02:21] - https://www.laruence.com/feed
+[2026-01-24 11:02:21] - https://www.mrhe.net/feed
+[2026-01-24 11:02:21] - https://byvoid.com/zhs/feed.xml
