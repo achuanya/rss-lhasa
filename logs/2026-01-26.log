@@ -70,3 +70,20 @@
 [2026-01-26 14:05:44] 抓取到的文章与现有数据相同，无需更新。
 [2026-01-26 15:04:39] 抓取到的文章与现有数据相同，无需更新。
 [2026-01-26 16:04:11] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2026-01-26 16:04:52] 本次订阅抓取结果统计:
+[2026-01-26 16:04:52] 共 47 条RSS, 成功抓取 42 条.
+[2026-01-26 16:04:52] ✘ 有 5 条订阅解析失败:
+[2026-01-26 16:04:52] - https://tumutanzi.com/feed
+[2026-01-26 16:04:52] - https://geekinney.com/index.xml
+[2026-01-26 16:04:52] - https://suus.me/atom.xml
+[2026-01-26 16:04:52] - https://www.moraex.com/feed
+[2026-01-26 16:04:52] - https://sizheng.org/feed
+[2026-01-26 16:04:52] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-01-26 16:04:52] - https://mayx.eu.org/atom.xml
+[2026-01-26 16:04:52] ✘ 有 6 条订阅头像无法访问, 已使用默认头像:
+[2026-01-26 16:04:52] - https://laike9m.com/blog/rss/
+[2026-01-26 16:04:52] - https://skywind.me/blog/feed
+[2026-01-26 16:04:52] - https://www.laruence.com/feed
+[2026-01-26 16:04:52] - https://www.mrhe.net/feed
+[2026-01-26 16:04:52] - https://byvoid.com/zhs/feed.xml
+[2026-01-26 16:04:52] - https://zhongxiaojie.com/feed
