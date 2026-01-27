@@ -46,3 +46,11 @@
 [2026-01-27 09:06:56] - https://www.moraex.com/feed
 [2026-01-27 09:06:56] - https://skywind.me/blog/feed
 [2026-01-27 10:03:54] 抓取到的文章与现有数据相同，无需更新。
+[2026-01-27 11:04:12] 本次订阅抓取结果统计:
+[2026-01-27 11:04:12] 共 47 条RSS, 成功抓取 42 条.
+[2026-01-27 11:04:12] ✘ 有 5 条订阅解析失败:
+[2026-01-27 11:04:12] - https://tumutanzi.com/feed
+[2026-01-27 11:04:12] - https://suus.me/atom.xml
+[2026-01-27 11:04:12] - https://geekinney.com/index.xml
+[2026-01-27 11:04:12] - https://www.moraex.com/feed
+[2026-01-27 11:04:12] - https://sizheng.org/feed
