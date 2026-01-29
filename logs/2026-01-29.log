@@ -74,3 +74,23 @@
 [2026-01-29 20:03:32] 抓取到的文章与现有数据相同，无需更新。
 [2026-01-29 21:03:36] 抓取到的文章与现有数据相同，无需更新。
 [2026-01-29 22:03:40] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2026-01-29 22:04:41] 本次订阅抓取结果统计:
+[2026-01-29 22:04:41] 共 47 条RSS, 成功抓取 38 条.
+[2026-01-29 22:04:41] ✘ 有 9 条订阅解析失败:
+[2026-01-29 22:04:41] - https://tumutanzi.com/feed
+[2026-01-29 22:04:41] - https://suus.me/atom.xml
+[2026-01-29 22:04:41] - https://geekinney.com/index.xml
+[2026-01-29 22:04:41] - https://sizheng.org/feed
+[2026-01-29 22:04:41] - https://xyzbz.cn/feed
+[2026-01-29 22:04:41] - https://www.laomuzhu.cn/feed/
+[2026-01-29 22:04:41] - https://www.moraex.com/feed
+[2026-01-29 22:04:41] - https://bluehe.cn/rss.xml
+[2026-01-29 22:04:41] - https://ilogs.cn/feed/
+[2026-01-29 22:04:41] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-01-29 22:04:41] - https://mayx.eu.org/atom.xml
+[2026-01-29 22:04:41] ✘ 有 5 条订阅头像无法访问, 已使用默认头像:
+[2026-01-29 22:04:41] - https://laike9m.com/blog/rss/
+[2026-01-29 22:04:41] - https://skywind.me/blog/feed
+[2026-01-29 22:04:41] - https://www.mrhe.net/feed
+[2026-01-29 22:04:41] - https://byvoid.com/zhs/feed.xml
+[2026-01-29 22:04:41] - https://blog.fueis.com/feed
