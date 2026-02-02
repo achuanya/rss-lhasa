@@ -25,3 +25,4 @@
 [2026-02-02 03:53:12] - https://sizheng.org/feed
 [2026-02-02 03:53:12] - https://www.moraex.com/feed
 [2026-02-02 03:53:12] - https://note.redcha.cn/rss.xml
+[2026-02-02 04:38:34] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
