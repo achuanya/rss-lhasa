@@ -1,1 +1,18 @@
 [2026-02-04 00:05:57] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2026-02-04 00:06:38] 本次订阅抓取结果统计:
+[2026-02-04 00:06:38] 共 47 条RSS, 成功抓取 42 条.
+[2026-02-04 00:06:38] ✘ 有 5 条订阅解析失败:
+[2026-02-04 00:06:38] - https://tumutanzi.com/feed
+[2026-02-04 00:06:38] - https://suus.me/atom.xml
+[2026-02-04 00:06:38] - https://geekinney.com/index.xml
+[2026-02-04 00:06:38] - https://www.moraex.com/feed
+[2026-02-04 00:06:38] - https://sizheng.org/feed
+[2026-02-04 00:06:38] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-02-04 00:06:38] - https://mayx.eu.org/atom.xml
+[2026-02-04 00:06:38] ✘ 有 6 条订阅头像无法访问, 已使用默认头像:
+[2026-02-04 00:06:38] - https://laike9m.com/blog/rss/
+[2026-02-04 00:06:38] - https://skywind.me/blog/feed
+[2026-02-04 00:06:38] - https://www.mrhe.net/feed
+[2026-02-04 00:06:38] - https://byvoid.com/zhs/feed.xml
+[2026-02-04 00:06:38] - https://www.ntiy.com/feed
+[2026-02-04 00:06:38] - https://zhongxiaojie.com/feed
