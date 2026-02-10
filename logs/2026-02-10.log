@@ -26,3 +26,19 @@
 [2026-02-10 10:16:26] 抓取到的文章与现有数据相同，无需更新。
 [2026-02-10 11:16:50] 抓取到的文章与现有数据相同，无需更新。
 [2026-02-10 12:11:35] [WARN] 加载头像映射失败: failed to fetch avatar map, status code: 522
+[2026-02-10 12:11:50] 本次订阅抓取结果统计:
+[2026-02-10 12:11:50] 共 47 条RSS, 成功抓取 41 条.
+[2026-02-10 12:11:50] ✘ 有 6 条订阅解析失败:
+[2026-02-10 12:11:50] - https://tumutanzi.com/feed
+[2026-02-10 12:11:50] - https://geekinney.com/index.xml
+[2026-02-10 12:11:50] - https://suus.me/atom.xml
+[2026-02-10 12:11:50] - https://shuiba.co/feed
+[2026-02-10 12:11:50] - https://sizheng.org/feed
+[2026-02-10 12:11:50] - https://www.moraex.com/feed
+[2026-02-10 12:11:50] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-02-10 12:11:50] - https://mayx.eu.org/atom.xml
+[2026-02-10 12:11:50] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2026-02-10 12:11:50] - https://laike9m.com/blog/rss/
+[2026-02-10 12:11:50] - https://skywind.me/blog/feed
+[2026-02-10 12:11:50] - https://www.mrhe.net/feed
+[2026-02-10 12:11:50] - https://byvoid.com/zhs/feed.xml
