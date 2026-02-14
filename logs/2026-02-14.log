@@ -43,3 +43,14 @@
 [2026-02-14 07:12:37] - https://www.moraex.com/feed
 [2026-02-14 08:03:06] 抓取到的文章与现有数据相同，无需更新。
 [2026-02-14 09:05:32] 抓取到的文章与现有数据相同，无需更新。
+[2026-02-14 10:03:15] 本次订阅抓取结果统计:
+[2026-02-14 10:03:15] 共 47 条RSS, 成功抓取 39 条.
+[2026-02-14 10:03:15] ✘ 有 8 条订阅解析失败:
+[2026-02-14 10:03:15] - https://tumutanzi.com/feed
+[2026-02-14 10:03:15] - https://suus.me/atom.xml
+[2026-02-14 10:03:15] - https://geekinney.com/index.xml
+[2026-02-14 10:03:15] - https://leixus.cn/index.php/feed/
+[2026-02-14 10:03:15] - https://www.luzhaojun.com/feed
+[2026-02-14 10:03:15] - https://shuiba.co/feed
+[2026-02-14 10:03:15] - https://www.moraex.com/feed
+[2026-02-14 10:03:15] - https://sizheng.org/feed
