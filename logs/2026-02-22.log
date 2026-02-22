@@ -76,3 +76,4 @@
 [2026-02-22 18:03:13] - https://shuiba.co/feed
 [2026-02-22 18:03:13] - https://www.moraex.com/feed
 [2026-02-22 18:03:13] - https://sizheng.org/feed
+[2026-02-22 19:06:46] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
