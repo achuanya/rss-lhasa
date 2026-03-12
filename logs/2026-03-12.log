@@ -39,3 +39,12 @@
 [2026-03-12 14:15:27] - https://www.moraex.com/feed
 [2026-03-12 14:15:27] - https://sizheng.org/feed
 [2026-03-12 15:15:23] [ERROR] 拉取RSS链接失败: /home/runner/work/rss-lhasa/rss-lhasa/feed_fetcher.go:53 => 无法获取RSS列表文件: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt | 原因: Get "https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt": net/http: TLS handshake timeout
+[2026-03-12 16:19:04] 本次订阅抓取结果统计:
+[2026-03-12 16:19:04] 共 47 条RSS, 成功抓取 41 条.
+[2026-03-12 16:19:04] ✘ 有 6 条订阅解析失败:
+[2026-03-12 16:19:04] - https://tumutanzi.com/feed
+[2026-03-12 16:19:04] - https://geekinney.com/index.xml
+[2026-03-12 16:19:04] - https://suus.me/atom.xml
+[2026-03-12 16:19:04] - https://shuiba.co/feed
+[2026-03-12 16:19:04] - https://www.moraex.com/feed
+[2026-03-12 16:19:04] - https://sizheng.org/feed
