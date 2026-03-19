@@ -48,3 +48,4 @@
 [2026-03-19 20:09:07] 抓取到的文章与现有数据相同，无需更新。
 [2026-03-19 21:09:56] 抓取到的文章与现有数据相同，无需更新。
 [2026-03-19 22:04:54] 抓取到的文章与现有数据相同，无需更新。
+[2026-03-19 23:07:02] [ERROR] 获取旧数据用于比较时失败: /home/runner/work/rss-lhasa/rss-lhasa/main.go:69 => 从 COS 获取旧 data.json 失败 | 原因: /home/runner/work/rss-lhasa/rss-lhasa/cos_upload.go:59 => 无法获取COS文件: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/data.json | 原因: Get "https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/data.json": net/http: TLS handshake timeout
