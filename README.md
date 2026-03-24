@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/license/achuanya/lhasaRSS" alt="GitHub license" />
   <img src="https://img.shields.io/github/actions/workflow/status/achuanya/lhasaRSS/rss_update.yml?branch=main" alt="GitHub Workflow Status" />
   <img src="https://img.shields.io/github/issues/achuanya/lhasaRSS" alt="GitHub issues" />
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/rss-lhasa)
 </div>
 
 lhasaRSS 是一款专注于 RSS 抓取与聚合的实用工具。它可以从预先设定的 RSS 源列表中并发抓取最新文章，自动提取博客名称、文章标题、发布时间、文章链接及头像等信息，并将数据按时间倒序存储到 JSON 对象中
