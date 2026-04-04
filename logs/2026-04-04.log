@@ -1,1 +1,12 @@
 [2026-04-04 00:08:20] 抓取到的文章与现有数据相同，无需更新。
+[2026-04-04 01:30:59] 本次订阅抓取结果统计:
+[2026-04-04 01:30:59] 共 46 条RSS, 成功抓取 40 条.
+[2026-04-04 01:30:59] ✘ 有 6 条订阅解析失败:
+[2026-04-04 01:30:59] - https://tumutanzi.com/feed
+[2026-04-04 01:30:59] - https://geekinney.com/index.xml
+[2026-04-04 01:30:59] - https://suus.me/atom.xml
+[2026-04-04 01:30:59] - https://shuiba.co/feed
+[2026-04-04 01:30:59] - https://sizheng.org/feed
+[2026-04-04 01:30:59] - https://www.moraex.com/feed
+[2026-04-04 01:30:59] ✘ 有 1 条订阅头像无法访问, 已使用默认头像:
+[2026-04-04 01:30:59] - https://writings.howsoonisnow.org/blog/feed/feed.xml
