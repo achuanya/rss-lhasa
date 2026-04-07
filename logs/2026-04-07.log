@@ -65,3 +65,4 @@
 [2026-04-07 12:12:42] - https://ilogs.cn/feed/
 [2026-04-07 12:12:42] - https://sizheng.org/feed
 [2026-04-07 12:12:42] - https://www.moraex.com/feed
+[2026-04-07 13:29:08] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
