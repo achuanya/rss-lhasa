@@ -1,1 +1,12 @@
 [2026-04-10 00:11:24] 抓取到的文章与现有数据相同，无需更新。
+[2026-04-10 01:31:31] 本次订阅抓取结果统计:
+[2026-04-10 01:31:31] 共 46 条RSS, 成功抓取 38 条.
+[2026-04-10 01:31:31] ✘ 有 8 条订阅解析失败:
+[2026-04-10 01:31:31] - https://tumutanzi.com/feed
+[2026-04-10 01:31:31] - https://geekinney.com/index.xml
+[2026-04-10 01:31:31] - https://suus.me/atom.xml
+[2026-04-10 01:31:31] - https://ilogs.cn/feed/
+[2026-04-10 01:31:31] - https://shuiba.co/feed
+[2026-04-10 01:31:31] - https://www.moraex.com/feed
+[2026-04-10 01:31:31] - https://sizheng.org/feed
+[2026-04-10 01:31:31] - https://note.redcha.cn/rss.xml
