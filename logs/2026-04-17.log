@@ -135,3 +135,4 @@
 [2026-04-17 20:11:06] 抓取到的文章与现有数据相同，无需更新。
 [2026-04-17 21:13:01] 抓取到的文章与现有数据相同，无需更新。
 [2026-04-17 22:10:25] 抓取到的文章与现有数据相同，无需更新。
+[2026-04-17 23:11:44] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": net/http: TLS handshake timeout
