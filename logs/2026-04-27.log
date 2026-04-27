@@ -69,3 +69,4 @@
 [2026-04-27 15:31:15] 抓取到的文章与现有数据相同，无需更新。
 [2026-04-27 16:29:24] 抓取到的文章与现有数据相同，无需更新。
 [2026-04-27 17:28:19] 抓取到的文章与现有数据相同，无需更新。
+[2026-04-27 18:22:25] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
