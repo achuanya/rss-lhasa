@@ -14,3 +14,4 @@
 [2026-04-30 04:21:20] - https://www.moraex.com/feed
 [2026-04-30 04:21:20] - https://sizheng.org/feed
 [2026-04-30 06:00:04] 抓取到的文章与现有数据相同，无需更新。
+[2026-04-30 07:05:50] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.246.25:443: connect: connection refused
