@@ -28,3 +28,4 @@
 [2026-05-03 04:25:05] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-03 05:59:46] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-03 07:02:52] 抓取到的文章与现有数据相同，无需更新。
+[2026-05-03 08:30:59] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.246.25:443: connect: connection refused
