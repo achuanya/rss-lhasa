@@ -27,3 +27,16 @@
 [2026-05-04 04:25:52] - https://sizheng.org/feed
 [2026-05-04 04:25:52] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-05-04 04:25:52] - https://jt26wzz.com/rss.xml
+[2026-05-04 06:00:19] 本次订阅抓取结果统计:
+[2026-05-04 06:00:19] 共 48 条RSS, 成功抓取 40 条.
+[2026-05-04 06:00:19] ✘ 有 8 条订阅解析失败:
+[2026-05-04 06:00:19] - https://tumutanzi.com/feed
+[2026-05-04 06:00:19] - https://geekinney.com/index.xml
+[2026-05-04 06:00:19] - https://suus.me/atom.xml
+[2026-05-04 06:00:19] - https://www.mrhe.net/feed
+[2026-05-04 06:00:19] - https://ilogs.cn/feed/
+[2026-05-04 06:00:19] - https://shuiba.co/feed
+[2026-05-04 06:00:19] - https://www.moraex.com/feed
+[2026-05-04 06:00:19] - https://sizheng.org/feed
+[2026-05-04 06:00:19] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-05-04 06:00:19] - https://jt26wzz.com/rss.xml
