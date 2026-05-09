@@ -47,3 +47,4 @@
 [2026-05-09 10:20:37] - https://note.redcha.cn/rss.xml
 [2026-05-09 10:20:37] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-05-09 10:20:37] - https://jt26wzz.com/rss.xml
+[2026-05-09 11:16:37] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
