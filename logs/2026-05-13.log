@@ -39,3 +39,4 @@
 [2026-05-13 13:40:31] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-13 14:57:58] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-13 15:53:50] 抓取到的文章与现有数据相同，无需更新。
+[2026-05-13 16:42:49] [ERROR] 拉取RSS链接失败: /home/runner/work/rss-lhasa/rss-lhasa/feed_fetcher.go:53 => 无法获取RSS列表文件: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt | 原因: Get "https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt": net/http: TLS handshake timeout
