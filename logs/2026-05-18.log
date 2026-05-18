@@ -28,3 +28,4 @@
 [2026-05-18 05:18:53] - https://sizheng.org/feed
 [2026-05-18 05:18:53] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-05-18 05:18:53] - https://jt26wzz.com/rss.xml
+[2026-05-18 07:13:34] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
