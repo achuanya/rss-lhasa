@@ -68,3 +68,19 @@
 [2026-05-27 17:59:13] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-27 18:57:46] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-27 19:43:08] 抓取到的文章与现有数据相同，无需更新。
+[2026-05-27 20:39:15] 本次订阅抓取结果统计:
+[2026-05-27 20:39:15] 共 49 条RSS, 成功抓取 38 条.
+[2026-05-27 20:39:15] ✘ 有 11 条订阅解析失败:
+[2026-05-27 20:39:15] - https://tumutanzi.com/feed
+[2026-05-27 20:39:15] - https://geekinney.com/index.xml
+[2026-05-27 20:39:15] - https://suus.me/atom.xml
+[2026-05-27 20:39:15] - https://freemind.pluskid.org/rss.xml
+[2026-05-27 20:39:15] - https://www.shephe.com/feed
+[2026-05-27 20:39:15] - https://innei.in/feed
+[2026-05-27 20:39:15] - https://ilogs.cn/feed/
+[2026-05-27 20:39:15] - https://shuiba.co/feed
+[2026-05-27 20:39:15] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-05-27 20:39:15] - https://www.moraex.com/feed
+[2026-05-27 20:39:15] - https://sizheng.org/feed
+[2026-05-27 20:39:15] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-05-27 20:39:15] - https://jt26wzz.com/rss.xml
