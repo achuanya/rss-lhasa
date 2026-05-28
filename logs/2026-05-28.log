@@ -67,3 +67,4 @@
 [2026-05-28 20:44:36] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-28 21:35:42] [WARN] 加载头像映射失败: failed to parse avatar map JSON: invalid character ']' looking for beginning of value
 [2026-05-28 21:35:57] 抓取到的文章与现有数据相同，无需更新。
+[2026-05-28 22:30:03] [WARN] 加载头像映射失败: failed to parse avatar map JSON: invalid character ']' looking for beginning of value
