@@ -58,3 +58,4 @@
 [2026-05-28 15:47:52] - https://skywind.me/blog/feed
 [2026-05-28 15:47:52] - https://byvoid.com/zhs/feed.xml
 [2026-05-28 16:25:24] [WARN] 加载头像映射失败: failed to parse avatar map JSON: invalid character ']' looking for beginning of value
+[2026-05-28 16:26:07] 抓取到的文章与现有数据相同，无需更新。
