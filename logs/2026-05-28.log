@@ -68,3 +68,24 @@
 [2026-05-28 21:35:42] [WARN] 加载头像映射失败: failed to parse avatar map JSON: invalid character ']' looking for beginning of value
 [2026-05-28 21:35:57] 抓取到的文章与现有数据相同，无需更新。
 [2026-05-28 22:30:03] [WARN] 加载头像映射失败: failed to parse avatar map JSON: invalid character ']' looking for beginning of value
+[2026-05-28 22:31:05] 本次订阅抓取结果统计:
+[2026-05-28 22:31:05] 共 50 条RSS, 成功抓取 39 条.
+[2026-05-28 22:31:05] ✘ 有 11 条订阅解析失败:
+[2026-05-28 22:31:05] - https://tumutanzi.com/feed
+[2026-05-28 22:31:05] - https://geekinney.com/index.xml
+[2026-05-28 22:31:05] - https://suus.me/atom.xml
+[2026-05-28 22:31:05] - https://www.shephe.com/feed
+[2026-05-28 22:31:05] - https://innei.in/feed
+[2026-05-28 22:31:05] - https://ilogs.cn/feed/
+[2026-05-28 22:31:05] - https://shuiba.co/feed
+[2026-05-28 22:31:05] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-05-28 22:31:05] - https://www.moraex.com/feed
+[2026-05-28 22:31:05] - https://sizheng.org/feed
+[2026-05-28 22:31:05] - https://note.redcha.cn/rss.xml
+[2026-05-28 22:31:05] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-05-28 22:31:05] - https://mayx.eu.org/atom.xml
+[2026-05-28 22:31:05] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2026-05-28 22:31:05] - https://laike9m.com/blog/rss/
+[2026-05-28 22:31:05] - https://skywind.me/blog/feed
+[2026-05-28 22:31:05] - https://xyzbz.cn/feed
+[2026-05-28 22:31:05] - https://byvoid.com/zhs/feed.xml
