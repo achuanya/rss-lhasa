@@ -178,7 +178,13 @@ func fetchAllFeeds(ctx context.Context, rssLinks []string, defaultAvatar string,
 			// 只取最新一篇文章作为结果
 			latest := feed.Items[0]
 			fr.Article.Title = latest.Title
-			fr.Article.Link = latest.Link
+
+			// 将相对路径转换为绝对路径
+			articleLink := latest.Link
+			if !strings.HasPrefix(articleLink, "http://") && !strings.HasPrefix(articleLink, "https://") {
+				articleLink = makeAbsoluteURL(feed.Link, articleLink)
+			}
+			fr.Article.Link = articleLink
 
 			// 解析发布时间，如果 RSS 解析器本身给出了 PublishedParsed 直接用，否则尝试解析 Published 字符串
 			pubTime := time.Now()
@@ -189,9 +195,9 @@ func fetchAllFeeds(ctx context.Context, rssLinks []string, defaultAvatar string,
 					pubTime = t
 				}
 			}
-			// 把解析出的时间，格式化为 "Jan 02, 2006" 记录下来
+			// 把解析出的时间，格式化为中文 "2006年01月02日" 记录下来
 			fr.ParsedTime = pubTime
-			fr.Article.Published = pubTime.Format("Jan 02, 2006")
+			fr.Article.Published = pubTime.Format("2006年01月02日")
 
 			resultChan <- fr
 		}(link)
