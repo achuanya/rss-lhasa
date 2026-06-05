@@ -319,7 +319,16 @@ func fetchFeedWithRetry(rssLink string, parser *gofeed.Parser, maxRetries int, b
 //   - *gofeed.Feed : 成功时返回Feed对象
 //   - error        : 若请求或解析失败，则返回错误信息
 func fetchFeed(rssLink string, parser *gofeed.Parser) (*gofeed.Feed, error) {
-	resp, err := http.Get(rssLink)
+	client := &http.Client{Timeout: 10 * time.Second}
+
+	req, err := http.NewRequest("GET", rssLink, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+	req.Header.Set("Accept", "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8")
+
+	resp, err := client.Do(req)
 	if err != nil {
 		return nil, err
 	}
@@ -372,7 +381,8 @@ func fetchFeedWithFix(rssLink string, parser *gofeed.Parser) (*gofeed.Feed, erro
 		return nil, err
 	}
 
-	req.Header.Set("User-Agent", "Mozilla/5.0 (compatible; RSSFetcher/1.0)")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+	req.Header.Set("Accept", "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8")
 
 	resp, err := client.Do(req)
 	if err != nil {
