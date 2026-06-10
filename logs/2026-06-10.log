@@ -167,3 +167,25 @@
 [2026-06-10 20:49:58] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-06-10 20:49:58] - https://jt26wzz.com/rss.xml
 [2026-06-10 21:38:02] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.246.25:443: connect: connection refused
+[2026-06-10 21:38:47] 本次订阅抓取结果统计:
+[2026-06-10 21:38:47] 共 54 条RSS, 成功抓取 42 条.
+[2026-06-10 21:38:47] ✘ 有 12 条订阅解析失败:
+[2026-06-10 21:38:47] - https://tumutanzi.com/feed
+[2026-06-10 21:38:47] - https://geekinney.com/index.xml
+[2026-06-10 21:38:47] - https://suus.me/atom.xml
+[2026-06-10 21:38:47] - https://www.shephe.com/feed
+[2026-06-10 21:38:47] - https://ilogs.cn/feed/
+[2026-06-10 21:38:47] - https://shuiba.co/feed
+[2026-06-10 21:38:47] - https://www.moraex.com/feed
+[2026-06-10 21:38:47] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-06-10 21:38:47] - https://sizheng.org/feed
+[2026-06-10 21:38:47] - https://4op.top/index.xml
+[2026-06-10 21:38:47] - https://ayayy.com/feed/
+[2026-06-10 21:38:47] - https://blog.gankudadiz.com/feed
+[2026-06-10 21:38:47] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-06-10 21:38:47] - https://mayx.eu.org/atom.xml
+[2026-06-10 21:38:47] ✘ 有 4 条订阅头像无法访问, 已使用默认头像:
+[2026-06-10 21:38:47] - https://zhongxiaojie.com/feed
+[2026-06-10 21:38:47] - https://skywind.me/blog/feed
+[2026-06-10 21:38:47] - https://laike9m.com/blog/rss/
+[2026-06-10 21:38:47] - https://byvoid.com/zhs/feed.xml
