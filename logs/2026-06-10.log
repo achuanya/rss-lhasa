@@ -89,3 +89,24 @@
 [2026-06-10 12:46:19] - https://jt26wzz.com/rss.xml
 [2026-06-10 13:00:57] 抓取到的文章与现有数据相同，无需更新。
 [2026-06-10 13:39:40] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+[2026-06-10 13:40:28] 本次订阅抓取结果统计:
+[2026-06-10 13:40:28] 共 53 条RSS, 成功抓取 40 条.
+[2026-06-10 13:40:28] ✘ 有 13 条订阅解析失败:
+[2026-06-10 13:40:28] - https://tumutanzi.com/feed
+[2026-06-10 13:40:28] - https://geekinney.com/index.xml
+[2026-06-10 13:40:28] - https://suus.me/atom.xml
+[2026-06-10 13:40:28] - https://www.shephe.com/feed
+[2026-06-10 13:40:28] - https://laike9m.com/blog/rss/
+[2026-06-10 13:40:28] - https://ilogs.cn/feed/
+[2026-06-10 13:40:28] - https://shuiba.co/feed
+[2026-06-10 13:40:28] - https://www.moraex.com/feed
+[2026-06-10 13:40:28] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-06-10 13:40:28] - https://sizheng.org/feed
+[2026-06-10 13:40:28] - https://4op.top/index.xml
+[2026-06-10 13:40:28] - https://ayayy.com/feed/
+[2026-06-10 13:40:28] - https://blog.gankudadiz.com/feed
+[2026-06-10 13:40:28] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-06-10 13:40:28] - https://mayx.eu.org/atom.xml
+[2026-06-10 13:40:28] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
+[2026-06-10 13:40:28] - https://skywind.me/blog/feed
+[2026-06-10 13:40:28] - https://byvoid.com/zhs/feed.xml
