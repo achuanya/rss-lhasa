@@ -112,3 +112,4 @@
 [2026-06-11 11:28:30] - https://jt26wzz.com/rss.xml
 [2026-06-11 13:08:50] 抓取到的文章与现有数据相同，无需更新。
 [2026-06-11 15:07:29] 抓取到的文章与现有数据相同，无需更新。
+[2026-06-11 17:09:18] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": dial tcp 43.174.247.25:443: connect: connection refused
