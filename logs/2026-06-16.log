@@ -65,3 +65,4 @@
 [2026-06-16 11:43:43] - https://ayayy.com/feed/
 [2026-06-16 11:43:43] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-06-16 11:43:43] - https://jt26wzz.com/rss.xml
+[2026-06-16 13:31:28] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
