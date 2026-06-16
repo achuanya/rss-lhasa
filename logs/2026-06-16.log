@@ -18,3 +18,4 @@
 [2026-06-16 03:02:38] - https://blog.gankudadiz.com/feed
 [2026-06-16 03:02:38] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
 [2026-06-16 03:02:38] - https://jt26wzz.com/rss.xml
+[2026-06-16 05:45:39] [ERROR] 拉取RSS链接失败: /home/runner/work/rss-lhasa/rss-lhasa/feed_fetcher.go:53 => 无法获取RSS列表文件: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt | 原因: Get "https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt": net/http: TLS handshake timeout
