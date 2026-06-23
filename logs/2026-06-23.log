@@ -33,3 +33,19 @@
 [2026-06-23 03:00:59] - https://jt26wzz.com/rss.xml
 [2026-06-23 04:30:44] 抓取到的文章与现有数据相同，无需更新。
 [2026-06-23 06:21:50] 抓取到的文章与现有数据相同，无需更新。
+[2026-06-23 08:10:36] 本次订阅抓取结果统计:
+[2026-06-23 08:10:36] 共 54 条RSS, 成功抓取 43 条.
+[2026-06-23 08:10:36] ✘ 有 11 条订阅解析失败:
+[2026-06-23 08:10:36] - https://geekinney.com/index.xml
+[2026-06-23 08:10:36] - https://suus.me/atom.xml
+[2026-06-23 08:10:36] - https://bluehe.cn/rss.xml
+[2026-06-23 08:10:36] - https://ilogs.cn/feed/
+[2026-06-23 08:10:36] - https://www.shephe.com/feed
+[2026-06-23 08:10:36] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-06-23 08:10:36] - https://www.moraex.com/feed
+[2026-06-23 08:10:36] - https://sizheng.org/feed
+[2026-06-23 08:10:36] - https://4op.top/index.xml
+[2026-06-23 08:10:36] - https://ayayy.com/feed/
+[2026-06-23 08:10:36] - https://www.xiaoten.com/index.xml
+[2026-06-23 08:10:36] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-06-23 08:10:36] - https://jt26wzz.com/rss.xml
