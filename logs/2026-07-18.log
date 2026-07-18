@@ -82,3 +82,4 @@
 [2026-07-18 10:07:25] - https://laike9m.com/blog/rss/
 [2026-07-18 10:07:25] - https://skywind.me/blog/feed
 [2026-07-18 11:42:12] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-18T11:42:12Z is after 2026-07-17T23:59:59Z
+[2026-07-18 11:42:28] 抓取到的文章与现有数据相同，无需更新。
