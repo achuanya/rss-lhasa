@@ -125,3 +125,22 @@
 [2026-07-18 16:41:47] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-18T16:41:47Z is after 2026-07-17T23:59:59Z
 [2026-07-18 16:42:06] 抓取到的文章与现有数据相同，无需更新。
 [2026-07-18 17:44:37] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-18T17:44:37Z is after 2026-07-17T23:59:59Z
+[2026-07-18 17:44:54] 本次订阅抓取结果统计:
+[2026-07-18 17:44:54] 共 54 条RSS, 成功抓取 43 条.
+[2026-07-18 17:44:54] ✘ 有 11 条订阅解析失败:
+[2026-07-18 17:44:54] - https://geekinney.com/index.xml
+[2026-07-18 17:44:54] - https://tumutanzi.com/feed
+[2026-07-18 17:44:54] - https://suus.me/atom.xml
+[2026-07-18 17:44:54] - https://leixus.cn/index.php/feed/
+[2026-07-18 17:44:54] - https://ilogs.cn/feed/
+[2026-07-18 17:44:54] - https://www.moraex.com/feed
+[2026-07-18 17:44:54] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-07-18 17:44:54] - https://sizheng.org/feed
+[2026-07-18 17:44:54] - https://4op.top/index.xml
+[2026-07-18 17:44:54] - https://ayayy.com/feed/
+[2026-07-18 17:44:54] - https://www.shephe.com/feed
+[2026-07-18 17:44:54] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-07-18 17:44:54] - https://mayx.eu.org/atom.xml
+[2026-07-18 17:44:54] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
+[2026-07-18 17:44:54] - https://skywind.me/blog/feed
+[2026-07-18 17:44:54] - https://laike9m.com/blog/rss/
