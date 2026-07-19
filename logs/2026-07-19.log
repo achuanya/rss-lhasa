@@ -28,3 +28,4 @@
 [2026-07-19 11:02:19] 抓取到的文章与现有数据相同，无需更新。
 [2026-07-19 12:47:09] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-19T12:47:09Z is after 2026-07-17T23:59:59Z
 [2026-07-19 12:47:24] 抓取到的文章与现有数据相同，无需更新。
+[2026-07-19 14:18:15] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-19T14:18:15Z is after 2026-07-17T23:59:59Z
