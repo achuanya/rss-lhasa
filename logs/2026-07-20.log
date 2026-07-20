@@ -94,3 +94,4 @@
 [2026-07-20 15:43:11] - https://laike9m.com/blog/rss/
 [2026-07-20 15:43:11] - https://shuiba.co/feed
 [2026-07-20 15:43:11] - https://blog.fueis.com/feed
+[2026-07-20 17:15:45] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-20T17:15:44Z is after 2026-07-17T23:59:59Z
