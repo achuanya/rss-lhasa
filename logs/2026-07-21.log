@@ -16,3 +16,4 @@
 [2026-07-21 01:22:58] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
 [2026-07-21 01:22:58] - https://skywind.me/blog/feed
 [2026-07-21 01:22:58] - https://laike9m.com/blog/rss/
+[2026-07-21 04:55:52] [WARN] 加载头像映射失败: failed to fetch avatar map: Get "https://cos.lhasa.icu/lhasaRSS/avatar.json": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: current time 2026-07-21T04:55:52Z is after 2026-07-17T23:59:59Z
