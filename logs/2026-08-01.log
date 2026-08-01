@@ -81,3 +81,17 @@
 [2026-08-01 15:50:56] - https://smalldatum.blogspot.com/feeds/posts/default
 [2026-08-01 15:50:56] - https://shuiba.co/feed
 [2026-08-01 15:50:56] - https://blog.fueis.com/feed
+[2026-08-01 16:45:09] 本次订阅抓取结果统计:
+[2026-08-01 16:45:09] 共 54 条RSS, 成功抓取 45 条.
+[2026-08-01 16:45:09] ✘ 有 9 条订阅解析失败:
+[2026-08-01 16:45:09] - https://geekinney.com/index.xml
+[2026-08-01 16:45:09] - https://suus.me/atom.xml
+[2026-08-01 16:45:09] - https://ilogs.cn/feed/
+[2026-08-01 16:45:09] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-08-01 16:45:09] - https://www.shephe.com/feed
+[2026-08-01 16:45:09] - https://sizheng.org/feed
+[2026-08-01 16:45:09] - https://www.moraex.com/feed
+[2026-08-01 16:45:09] - https://4op.top/index.xml
+[2026-08-01 16:45:09] - https://ayayy.com/feed/
+[2026-08-01 16:45:09] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-08-01 16:45:09] - https://jt26wzz.com/rss.xml
