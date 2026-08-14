@@ -32,3 +32,17 @@
 [2026-08-14 08:56:05] 抓取到的文章与现有数据相同，无需更新。
 [2026-08-14 09:49:40] [ERROR] 拉取RSS链接失败: /home/runner/work/rss-lhasa/rss-lhasa/feed_fetcher.go:53 => 无法获取RSS列表文件: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt | 原因: Get "https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt": net/http: TLS handshake timeout
 [2026-08-14 10:46:41] 抓取到的文章与现有数据相同，无需更新。
+[2026-08-14 11:35:29] 本次订阅抓取结果统计:
+[2026-08-14 11:35:29] 共 54 条RSS, 成功抓取 45 条.
+[2026-08-14 11:35:29] ✘ 有 9 条订阅解析失败:
+[2026-08-14 11:35:29] - https://geekinney.com/index.xml
+[2026-08-14 11:35:29] - https://suus.me/atom.xml
+[2026-08-14 11:35:29] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-08-14 11:35:29] - https://ilogs.cn/feed/
+[2026-08-14 11:35:29] - https://www.moraex.com/feed
+[2026-08-14 11:35:29] - https://sizheng.org/feed
+[2026-08-14 11:35:29] - https://4op.top/index.xml
+[2026-08-14 11:35:29] - https://feng.pub/feed
+[2026-08-14 11:35:29] - https://ayayy.com/feed/
+[2026-08-14 11:35:29] ✘ 有 1 条订阅头像字段为空, 已使用默认头像:
+[2026-08-14 11:35:29] - https://jt26wzz.com/rss.xml
