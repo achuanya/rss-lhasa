@@ -49,3 +49,4 @@
 [2026-09-01 15:16:30] - https://jt26wzz.com/rss.xml
 [2026-09-01 18:56:24] 抓取到的文章与现有数据相同，无需更新。
 [2026-09-01 21:29:43] 抓取到的文章与现有数据相同，无需更新。
+[2026-09-01 23:37:52] [ERROR] 拉取RSS链接失败: /home/runner/work/rss-lhasa/rss-lhasa/feed_fetcher.go:58 => 获取RSS列表失败: https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/rss.txt | 原因: HTTP状态码: 451
