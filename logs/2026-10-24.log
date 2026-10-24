@@ -34,3 +34,18 @@
 [2026-10-24 13:42:47] 抓取到的文章与现有数据相同，无需更新。
 [2026-10-24 17:04:27] 抓取到的文章与现有数据相同，无需更新。
 [2026-10-24 19:55:25] 抓取到的文章与现有数据相同，无需更新。
+[2026-10-24 22:21:41] 本次订阅抓取结果统计:
+[2026-10-24 22:21:41] 共 54 条RSS, 成功抓取 42 条.
+[2026-10-24 22:21:41] ✘ 有 12 条订阅解析失败:
+[2026-10-24 22:21:41] - https://geekinney.com/index.xml
+[2026-10-24 22:21:41] - https://timyang.net/feed/
+[2026-10-24 22:21:41] - https://suus.me/atom.xml
+[2026-10-24 22:21:41] - https://www.shephe.com/feed
+[2026-10-24 22:21:41] - https://ilogs.cn/feed/
+[2026-10-24 22:21:41] - https://writings.howsoonisnow.org/blog/feed/feed.xml
+[2026-10-24 22:21:41] - https://sizheng.org/feed
+[2026-10-24 22:21:41] - https://4op.top/index.xml
+[2026-10-24 22:21:41] - https://yufan.me/feed
+[2026-10-24 22:21:41] - https://ayayy.com/feed/
+[2026-10-24 22:21:41] - https://feng.pub/feed
+[2026-10-24 22:21:41] - https://jt26wzz.com/rss.xml
